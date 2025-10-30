@@ -1,4 +1,4 @@
-# Cycle-2-NS2-Experiment-2
+
 PERFORMANCE ANALYSIS OF THE NETWORK WITH CSMA/CD
 # NS2 Simulation: CSMA/CD Network Performance
 
@@ -91,7 +91,8 @@ $ns run
 
 
 ## 📊 MODEL OUTPUT
-<img src="C:\Users\Latha\OneDrive\Pictures\Screenshots\code block 2.png" alt="Code block 2" width="200"/>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6daf9703-3835-4412-9e92-bfbe1dff8deb" />
+
 
 
 ## 📝 MARK ALLOCATION
